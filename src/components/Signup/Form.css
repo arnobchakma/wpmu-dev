@@ -1,0 +1,23 @@
+.form-group input {
+    border: 1px solid #e2e2e2;
+    width: 450px;
+    padding: 12px;
+    border-radius: 2px;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.form-group p {
+    color: #a6a6a6;
+    margin-top: -12px;
+    font-size: 13px;
+}
+
+button {
+    width: 477px;
+    padding: 14px 0px;
+    border-radius: 2px;
+    border: none;
+    color: rgb(146, 146, 146);
+    cursor: pointer;
+}

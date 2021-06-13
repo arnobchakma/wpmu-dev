@@ -1,0 +1,11 @@
+.login-section{
+    width: 1140px;
+    height: 100vh;
+    padding: 150px 200px;
+    border: none;
+    font-family: 'sen', sans-serif;
+}
+
+.login-form {
+    margin: o auto;
+}

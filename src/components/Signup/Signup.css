@@ -1,0 +1,19 @@
+.signup-wrapper{
+    padding: 150px 200px;
+    border: none;
+    font-family: 'sen', sans-serif;
+}
+
+.signup-wrapper h3 {
+    
+}
+
+.sign-in-area {
+    margin: 35px 0;
+    color: #a4a4a4;
+}
+
+.signup-link {
+    color: blue;
+    margin-right: 5px;
+}
