@@ -1,11 +1,8 @@
-
-### This is an login form using React Js.
-
-
-
-## In this project I used technologies is
-### HTML
-### CSS
-### JAvaScript
-### React 
-### Firebase
+## About this project
+#### This is a simple login form using React Js.
+## Used technologies
+#### HTML
+#### CSS
+#### JAvaScript
+#### React 
+#### Firebase
